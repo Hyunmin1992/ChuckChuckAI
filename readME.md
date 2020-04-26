@@ -4,7 +4,6 @@
 **1. Getting Started** <br>
   - 개인 로컬 PC에서 test해보는 방법
     - springboot 서버(8000)와 tornado 서버(5000), elasticsearch(9200) 서버가 동시에 켜져있어야합니다. <br>
-    - 학습된 가중치파일(h5, json)은 thdtlcks369@gmail.com으로 메일 주시면 보내드리겠습니다 ^^<br>
     - cmd 콘솔에 pip install -r requirements.txt로 필요한 라이브러리를 설치해주세요.
     - 기능 구현 시에 GOOGLE에서 제공하는 API 키 발급 필수 
     - https://cloud.google.com/text-to-speech/docs/?hl=ko (GOOGLE 공식문서 참조)
